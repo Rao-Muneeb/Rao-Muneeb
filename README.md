@@ -16,7 +16,7 @@
 
 - 📄 Know about [my experiences](https://drive.google.com/file/d/1t3M7DBt7qGmlr4F1k87Ff8v5-Fh2OUDB/view?usp=sharing)
 
-- ⚡ Facts about me **I love travelling, playing cricket and drawing**
+- ⚡ Facts about me; **love travelling, playing cricket and drawing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
