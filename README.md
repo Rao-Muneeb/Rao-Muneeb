@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rao Muneeb</h1>
 <h3 align="center">A passionate backend developer from Pakistan who also loves frontend.</h3>
 
+---
+
 - 🔭 I’m currently working on **AI Content Update Tool**
 
 - 🌱 I’m currently learning **DevOps (AWS)**
