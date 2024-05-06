@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rao Muneeb</h1>
 
----
-
 <h3 align="center">A passionate backend developer from Pakistan who also loves frontend.</h3>
 
 ---
